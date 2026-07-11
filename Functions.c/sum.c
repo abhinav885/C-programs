@@ -1,10 +1,10 @@
 #include<stdio.h>
-int sum(int a,int b){
-    sum = a + b;
-    return sum;
+int sub(int a,int b){
+    int sub1 = a + b;
+    return sub1;
 }
 int main(){
     int a,b;
     int add;
-    add = sum(a,b);
+    add = sub(a,b);
 }
