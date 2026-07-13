@@ -2,5 +2,6 @@
 int main(){
     int a = 10;
     int b = 20;
-    printf("%d %d",a,b);
+    int c = 30;
+    printf("%d %d %d",a,b,c);
 }
